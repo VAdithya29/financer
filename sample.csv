@@ -1,0 +1,6 @@
+Posted Transactions Date,Description1,Description2,Description3,Debit Amount,Credit Amount,Balance,Posted Currency,Transaction Type,Local Currency Amount,Local Currency
+2024-01-15,GROCERY STORE,,,50.00,,1250.00,USD,Purchase,50.00,USD
+2024-01-16,NETFLIX SUBSCRIPTION,,,0,,1250.00,USD,Payment,15.99,USD
+2024-01-17,ATM WITHDRAWAL,,,100.00,,1150.00,USD,Withdrawal,100.00,USD
+2024-01-18,SALARY DEPOSIT,,,0,3000.00,4150.00,USD,Deposit,3000.00,USD
+2024-01-19,RESTAURANT,,,35.50,,4114.50,USD,Purchase,35.50,USD
